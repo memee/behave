@@ -440,12 +440,12 @@
 "pl":
   name: Polish
   native: polski
-  feature: Właściwość
+  feature: Właściwość|Funkcjonalność
   background: Założenia
   scenario: Scenariusz
   scenario_outline: Szablon scenariusza
   examples: Przykłady
-  given: "*|Zakładając|Mając"
+  given: "*|Zakładając|Zakładając, że|Mając"
   when: "*|Jeżeli|Jeśli"
   then: "*|Wtedy"
   and: "*|Oraz|I"
